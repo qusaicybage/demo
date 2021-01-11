@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(250, 243, 243);
+    color: rgb(247, 239, 239);
+}
+.modal-content {
+    background-color:rgb(36,38,51);
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid rgb(14, 13, 13);
+    width: 100%; /* Could be more or less, depending on screen size */
+  }
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-body{
+    background-color: #10141b;
+}

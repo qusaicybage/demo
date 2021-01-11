@@ -1,0 +1,22 @@
+{
+  "Users": [
+ 
+    {
+      "name": "tyu",
+      "password": "qwert",
+      "email": "vbcn@gmail.com",
+      "password_again": "qwert",
+      "id": "pFdxXt0"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
